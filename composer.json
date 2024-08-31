@@ -1,6 +1,6 @@
 {
-    "name": "rekmixa/clear-php-kit",
-    "description": "clear-php-kit",
+    "name": "rekmixa/coupling-php-examples",
+    "description": "Coupling PHP Examples",
     "require": {
         "php": ">=8.3.8",
         "vlucas/phpdotenv": "^5.3",

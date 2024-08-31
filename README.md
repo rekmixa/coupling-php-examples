@@ -1,4 +1,4 @@
-# clear-php-kit
+# Coupling PHP Examples
 
 > PHPUnit  
 > Infector  
